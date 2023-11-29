@@ -1,4 +1,4 @@
-### Hi there 👋
+### learning and grinding frontend :space_invader::skull_and_crossbones:
 
 <!--START_SECTION:waka-->
 
