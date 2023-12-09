@@ -3,12 +3,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 November 2023 - To: 06 December 2023
+From: 27 November 2023 - To: 07 December 2023
 
 Total Time: 9 hrs 36 mins
 
 HTML         3 hrs 8 mins    >>>>>>>>-----------------   32.61 %
-C#           2 hrs 45 mins   >>>>>>>------------------   28.64 %
+C#           2 hrs 45 mins   >>>>>>>------------------   28.63 %
 JavaScript   2 hrs 5 mins    >>>>>--------------------   21.61 %
 CSS          1 hr 26 mins    >>>>---------------------   14.85 %
 XML          6 mins          -------------------------   01.04 %
